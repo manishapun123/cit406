@@ -28,7 +28,7 @@ The editable ERD file is located at:
 
 The data dictionary is available at:
 
-`docs/data_dictionary.md`
+data_dictionary.md
 
 ## Repository Structure
 
@@ -39,7 +39,7 @@ The data dictionary is available at:
 - `logic/views_functions_triggers.sql` – Views, functions, and membership audit trigger.
 - `indexes/indexes.sql` – Indexes to support query performance.
 - `security/security_policies.sql` – Database roles, grants, and row-level security configuration.
-- `docs/data_dictionary.md` – Table and column descriptions.
+- data_dictionary.md – Table and column descriptions.
 - `docs/University_Club_Management_ERD.drawio` – Editable ERD diagram.
 - `screenshots/` – Project screenshots, when available.
 
